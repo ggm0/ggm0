@@ -1,6 +1,6 @@
 👋 Hi, I’m Giulia Morais
-- 👀 I’m interested in Data Analysis, business intelligence, statistic and more!
-- 🌱 I’m currently learning Python, Azure, SQL and a descriptive statistic.
+- 👀 I’m interested in Projects, business intelligence, business strategy and more!
+- 🌱 I’m currently learning more about Pyhton, VBA, Excel and agile methodologies as well!
 - 🎯 My goal here is to built my portfolio and share my projects and knowledge.
 
 <!---
